@@ -1,0 +1,13 @@
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\bin\x86\Release\Assault Cube.exe.config
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\bin\x86\Release\Assault Cube.exe
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\bin\x86\Release\Memory.xml
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\obj\x86\Release\Assault Cube.csproj.AssemblyReference.cache
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\obj\x86\Release\Assault Cube.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\obj\x86\Release\Assault_Cube.Form1.resources
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\obj\x86\Release\Assault_Cube.Properties.Resources.resources
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\obj\x86\Release\Assault Cube.csproj.GenerateResource.cache
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\obj\x86\Release\Assault Cube.csproj.CoreCompileInputs.cache
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\obj\x86\Release\Assault Cube.csproj.CopyComplete
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\obj\x86\Release\Assault Cube.exe
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\bin\x86\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mercy\Desktop\Games\Assault Cube\Assault Cube\obj\x86\Release\Assault Cube.csproj.Fody.CopyLocal.cache
